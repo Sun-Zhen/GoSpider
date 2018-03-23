@@ -15,3 +15,5 @@
 .idea
 pkg
 /bin/spider
+/src/gopkg.in
+/src/github.com
